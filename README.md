@@ -1,5 +1,4 @@
-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 💫 About Me:
+💫 About Me:
 <br>💻 Skilled in C++, Java, and Web Development (HTML, CSS, JS)<br><br>🚀 Exploring AI-powered photo editing, cloud computing, and simulation projects<br><br>🔗 Active on HackerRank and LinkedIn for learning and networking<br><br>🎯 Goal: To deepen coding skills and create impactful web & AI projects
 
 
