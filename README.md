@@ -1,6 +1,10 @@
-# 💫 About Me:
-💫 About Me:<br>💻 Skilled in C++, Python, and Web Development (HTML, CSS, JS)<br><br>🚀 Exploring AI, cloud computing, and simulation projects<br><br>🔗 Active on HackerRank and LinkedIn for learning and networking<br><br>🎯 Goal: To deepen coding skills and create impactful web & AI projects
 
+## 💫 About Me
+- 🎓 CS Student passionate about problem solving
+- 🌱 Currently learning **Data Structures & Algorithms** in C++
+- 💡 Building projects in **Web Dev & AI**
+- 📍 Based in Moradabad, India
+- ⚡ Fun fact: I solve coding problems daily!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-kushwaha-0982a2332) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@VishalKush9912) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalk.ushwa9912@gmail.com) 
@@ -15,7 +19,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vishal-kushwaha-9912&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
@@ -24,4 +27,11 @@
 ---
 [![](https://komarev.com/ghpvc/?username=vishal-kushwaha-9912&icon=4&color=0)](https://visitcount.itsvg.in)
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vishal%20Kushwaha&fontSize=50&animation=fadeIn)
+
+![Snake animation](https://github.com/vishal-kushwaha-9912/vishal-kushwaha-9912/blob/output/github-contribution-grid-snake.svg)
+
+[![Spotify](https://novatorem-vishal.vercel.app/api/spotify)](https://open.spotify.com/user/yourprofile)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=C%2B%2B+Developer;Web+Developer;AI+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
