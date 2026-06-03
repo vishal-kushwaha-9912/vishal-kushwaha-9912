@@ -21,13 +21,13 @@
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-kushwaha-0982a2332)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@VishalKush9912)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalk.ushwa9912@gmail.com)
+[![X/Twitter](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@VishalKush9912)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalk.ushwa9912@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/vishalk_ushwa9912)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal-kushwaha-9912)
 
@@ -39,82 +39,125 @@
 
 <div align="center">
 
-### Languages
+### 🔤 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Web Development
+### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4CAF50?style=for-the-badge)
 
-### Tools
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-kushwaha-9912&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vishal-kushwaha-9912&theme=tokyonight&hide_border=true)](https://github.com/vishal-kushwaha-9912)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vishal-kushwaha-9912&theme=tokyonight&hide_border=false)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kushwaha-9912&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=vishal-kushwaha-9912&color=blueviolet&style=flat-square)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Milestones
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=vishal-kushwaha-9912&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+🌟 **Public Repositories** | 💻 **Active Developer** | 🔥 **Consistent Contributor**
+
+- ✅ Daily Code Commits
+- ✅ Problem Solving on HackerRank
+- ✅ Full Stack Development Projects
+- ✅ Open Source Contributions
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📚 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **Data Structures & Algorithms** | DSA problems in C++ | C++, Problem Solving |
+| **Web Development** | Responsive web projects | HTML5, CSS3, JavaScript |
+| **Python Projects** | Automation & scripting | Python, Automation |
+
+---
+
+## 🎯 Current Focus
+
+- 📖 Mastering **Advanced Data Structures**
+- 🤖 Exploring **Machine Learning & AI**
+- ☁️ Learning **Cloud Computing** (AWS/Azure)
+- 🌐 Building **Full-Stack Web Applications**
+- 📊 Improving **Problem-Solving Skills**
+
+---
+
+## 📈 My Journey
+
+```
+2024-2026: Active Development Phase
+├── DSA Mastery
+├── Web Development Projects
+├── Cloud Computing Learning
+└── AI Exploration
+```
+
+---
+
+## 💡 Quick Stats
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-kushwaha-9912&theme=tokyo-night&hide_border=false)
+| Metric | Value |
+|--------|-------|
+| **Primary Language** | C++ |
+| **Expertise Areas** | DSA, Web Dev, Problem Solving |
+| **Learning Goal** | AI & Cloud |
+| **Contribution Status** | 🟢 Active |
+| **Location** | India 🇮🇳 |
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repos
+## 🤝 Let's Collaborate!
 
-<div align="center">
+I'm always open to:
+- 🔗 Networking opportunities
+- 💼 Internship & job opportunities
+- 📝 Open source contributions
+- 🎓 Learning & knowledge sharing
+- 🚀 Building exciting projects together
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=vishal-kushwaha-9912&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+**Feel free to reach out!**
 
 ---
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vishal-kushwaha-9912&color=blueviolet&style=for-the-badge)](https://github.com/vishal-kushwaha-9912)
+### "Code is poetry written in logic" 💭
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/vishal-kushwaha-0982a2332)
+[![Email Me](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:vishalk.ushwa9912@gmail.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
