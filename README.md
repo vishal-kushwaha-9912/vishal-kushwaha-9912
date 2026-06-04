@@ -13,7 +13,7 @@
 - 🎓 CS Student passionate about problem solving
 - 💻 Skilled in **C++**, **Python**, and **Web Development**
 - 🌱 Currently mastering **Data Structures & Algorithms** in C++
-- 🚀 Exploring **AI**, **Cloud Computing**, and simulation projects
+- 🚀 Exploring **AI**, **Cloud Computing**,**Linux** and simulation projects
 - 🔗 Active on **HackerRank** and **LinkedIn** for learning and networking
 - 🎯 Goal: Build impactful **Web & AI projects**
 - 📍 Based in **India**
