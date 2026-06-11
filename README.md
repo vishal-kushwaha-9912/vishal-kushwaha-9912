@@ -59,23 +59,45 @@
 </div>
 
 ---
-
+ 
 ## 📊 GitHub Analytics
-
+ 
 <div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vishal-kushwaha-9912&theme=tokyonight&hide_border=true)](https://github.com/vishal-kushwaha-9912)
-
+ 
 </div>
-
 <div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=vishal-kushwaha-9912&color=blueviolet&style=flat-square)
-
+ 
 </div>
-
 ---
+ 
 
+## 📊 Contribution Dashboard & Activity Metrics
+ 
+<div align="center">
+### 💻 Overall Contribution Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-kushwaha-9912&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=27)](https://github.com/vishal-kushwaha-9912)
+ 
+### 🔥 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kushwaha-9912&theme=tokyonight&hide_border=true&layout=compact&langs_count=10)](https://github.com/vishal-kushwaha-9912)
+ 
+### 📈 Contribution Activity Map
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-kushwaha-9912&theme=tokyo-night&hide_border=true&line_height=28)](https://github.com/vishal-kushwaha-9912)
+
+
+ 
+## 🚀 Featured Projects
+ 
+### [GYM-APP](https://github.com/vishal-kushwaha-9912/GYM-APP)
+**Cross-platform fitness tracking app with real-time analytics**
+- **Tech:** React Native, Expo, Vercel, Node.js
+- **Highlights:** 
+  - 📱 Responsive mobile-first design
+  - 📊 Real-time analytics dashboard
+  - 🚀 [Live Demo](https://gymapp-vercel.vercel.app/) | Deployed on Vercel
+  - ✅ Resolved deployment issues with Vercel configuration
+  - 🔄 Continuous development & improvements
 ## 🏆 Achievements & Milestones
 
 <div align="center">
