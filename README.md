@@ -1,4 +1,3 @@
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vishal%20Kushwaha&fontSize=50&animation=fadeIn&fontColor=white)
 
 <div align="center">
@@ -18,6 +17,7 @@
 - 🔗 Active on **HackerRank** and **LinkedIn** for learning and networking
 - 🎯 Goal: Build impactful **Web & AI projects**
 - 📍 Based in **India**
+- 👨‍💼 **Founder & Owner** of [SneakerHub - Premium Sneaker Store](https://vishal-kushwaha-9912.github.io/Sneakers-hub-2.0/) - A modern sneaker e-commerce website
 - ⚡ Fun fact: I push code to GitHub every day!
 
 ---
@@ -55,7 +55,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -104,6 +104,16 @@
   - 🚀 [Live Demo](https://gymapp-vercel.vercel.app/) | Deployed on Vercel
   - ✅ Resolved deployment issues with Vercel configuration
   - 🔄 Continuous development & improvements
+
+### [SneakerHub - Premium Sneaker Store](https://vishal-kushwaha-9912.github.io/Sneakers-hub-2.0/)
+**Visually appealing sneaker store website showcasing latest releases and exclusive collaborations**
+- **Tech Stack:** HTML5, CSS3, JavaScript
+- **Highlights:**
+  - 🎨 Modern and sleek UI design
+  - 📱 Fully responsive across all devices
+  - 🛍️ Product showcase with dynamic filtering
+  - ✨ Smooth animations and transitions
+  - 🚀 [Live Website](https://vishal-kushwaha-9912.github.io/Sneakers-hub-2.0/) | [Source Code](https://github.com/vishal-kushwaha-9912/Sneakers-hub-2.0)
 
 ### [Web Development Projects](https://github.com/vishal-kushwaha-9912/Web-Projects)
 **Responsive web applications showcasing front-end expertise**
