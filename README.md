@@ -17,7 +17,7 @@
 - 🔗 Active on **HackerRank** and **LinkedIn** for learning and networking
 - 🎯 Goal: Build impactful **Web & AI projects**
 - 📍 Based in **India**
-- 👨‍💼 **Founder & Owner** of [SneakerHub - Premium Sneaker Store](https://vishal-kushwaha-9912.github.io/Sneakers-hub-2.0/) - A modern sneaker e-commerce website
+- 👨‍💼 **Founder & Owner** of [SneakerHub - Premium Sneaker Store](https://sneakes.netlify.app/)) - A modern sneaker e-commerce website
 - ⚡ Fun fact: I push code to GitHub every day!
 
 ---
@@ -113,7 +113,7 @@
   - 📱 Fully responsive across all devices
   - 🛍️ Product showcase with dynamic filtering
   - ✨ Smooth animations and transitions
-  - 🚀 [Live Website](https://vishal-kushwaha-9912.github.io/Sneakers-hub-2.0/) | [Source Code](https://github.com/vishal-kushwaha-9912/Sneakers-hub-2.0)
+  - 🚀 [Live Website](https://sneakes.netlify.app/) | [Source Code](https://github.com/vishal-kushwaha-9912/Sneakers-hub-2.0)
 
 ### [Web Development Projects](https://github.com/vishal-kushwaha-9912/Web-Projects)
 **Responsive web applications showcasing front-end expertise**
