@@ -1,3 +1,4 @@
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vishal%20Kushwaha&fontSize=50&animation=fadeIn&fontColor=white)
 
 <div align="center">
@@ -13,7 +14,7 @@
 - 🎓 CS Student passionate about problem solving
 - 💻 Skilled in **C++**, **Python**, and **Web Development**
 - 🌱 Currently mastering **Data Structures & Algorithms** in C++
-- 🚀 Exploring **AI**, **Cloud Computing**,**Linux** and simulation projects
+- 🚀 Exploring **AI**, **Cloud Computing**, **Linux** and simulation projects
 - 🔗 Active on **HackerRank** and **LinkedIn** for learning and networking
 - 🎯 Goal: Build impactful **Web & AI projects**
 - 📍 Based in **India**
@@ -59,45 +60,61 @@
 </div>
 
 ---
- 
+
 ## 📊 GitHub Analytics
- 
+
 <div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vishal-kushwaha-9912&theme=tokyonight&hide_border=true)](https://github.com/vishal-kushwaha-9912)
- 
-</div>
-<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=vishal-kushwaha-9912&color=blueviolet&style=flat-square)
- 
+
 </div>
+
 ---
- 
 
 ## 📊 Contribution Dashboard & Activity Metrics
- 
+
 <div align="center">
+
 ### 💻 Overall Contribution Stats
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-kushwaha-9912&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=27)](https://github.com/vishal-kushwaha-9912)
- 
+
 ### 🔥 Most Used Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kushwaha-9912&theme=tokyonight&hide_border=true&layout=compact&langs_count=10)](https://github.com/vishal-kushwaha-9912)
- 
+
 ### 📈 Contribution Activity Map
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-kushwaha-9912&theme=tokyo-night&hide_border=true&line_height=28)](https://github.com/vishal-kushwaha-9912)
 
+</div>
 
- 
+---
+
 ## 🚀 Featured Projects
- 
+
 ### [GYM-APP](https://github.com/vishal-kushwaha-9912/GYM-APP)
 **Cross-platform fitness tracking app with real-time analytics**
-- **Tech:** React Native, Expo, Vercel, Node.js
+- **Tech Stack:** React Native, Expo, Vercel, Node.js
 - **Highlights:** 
   - 📱 Responsive mobile-first design
   - 📊 Real-time analytics dashboard
   - 🚀 [Live Demo](https://gymapp-vercel.vercel.app/) | Deployed on Vercel
   - ✅ Resolved deployment issues with Vercel configuration
   - 🔄 Continuous development & improvements
+
+### [Web Development Projects](https://github.com/vishal-kushwaha-9912/Web-Projects)
+**Responsive web applications showcasing front-end expertise**
+- **Tech Stack:** HTML5, CSS3, JavaScript
+- **Highlights:**
+  - 🎨 Modern UI/UX designs
+  - 📱 Mobile-responsive layouts
+  - ⚡ Performance optimized
+
+---
+
 ## 🏆 Achievements & Milestones
 
 <div align="center">
@@ -110,16 +127,6 @@
 - ✅ Open Source Contributions
 
 </div>
-
----
-
-## 📚 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **Data Structures & Algorithms** | DSA problems in C++ | C++, Problem Solving |
-| **Web Development** | Responsive web projects | HTML5, CSS3, JavaScript |
-| **Python Projects** | Automation & scripting | Python, Automation |
 
 ---
 
