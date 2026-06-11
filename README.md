@@ -17,7 +17,7 @@
 - 🔗 Active on **HackerRank** and **LinkedIn** for learning and networking
 - 🎯 Goal: Build impactful **Web & AI projects**
 - 📍 Based in **India**
-- 👨‍💼 **Founder & Owner** of [SneakerHub - Premium Sneaker Store](https://sneakes.netlify.app/)) - A modern sneaker e-commerce website
+- 👨‍💼 **Founder & Owner** of [SneakerHub - Premium Sneaker Store](https://sneakes.netlify.app/) - A modern sneaker e-commerce website
 - ⚡ Fun fact: I push code to GitHub every day!
 
 ---
