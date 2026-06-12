@@ -101,7 +101,6 @@
 - **Highlights:** 
   - 📱 Responsive mobile-first design
   - 📊 Real-time analytics dashboard
-  - 🚀 [Live Demo](https://gymapp-vercel.vercel.app/) | Deployed on Vercel
   - ✅ Resolved deployment issues with Vercel configuration
   - 🔄 Continuous development & improvements
 
