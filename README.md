@@ -98,7 +98,8 @@
 ### [GYM-APP](https://github.com/vishal-kushwaha-9912/GYM-APP)
 **Cross-platform fitness tracking app with real-time analytics**
 - **Tech Stack:** React Native, Expo, Vercel, Node.js
-- **Highlights:** 
+- **Highlights:**
+  -  🚀 [Live Website] (https://gym-app.netlify.app/)
   - 📱 Responsive mobile-first design
   - 📊 Real-time analytics dashboard
   - ✅ Resolved deployment issues with Vercel configuration
