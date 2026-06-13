@@ -99,7 +99,7 @@
 **Cross-platform fitness tracking app with real-time analytics**
 - **Tech Stack:** React Native, Expo, Vercel, Node.js
 - **Highlights:**
-  -  🚀 [Live Website] (https://gym-app.netlify.app/)
+  - 🚀 [Live Website](https://gym-app.netlify.app/)
   - 📱 Responsive mobile-first design
   - 📊 Real-time analytics dashboard
   - ✅ Resolved deployment issues with Vercel configuration
