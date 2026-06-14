@@ -60,7 +60,7 @@
 ### ⚙️ Hosting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![superbase](https://img.shields.io/badge/superbase-00C7B7?style=for-the-badge&logo=superbase&logoColor=white)
+![superbase](https://img.shields.io/badge/superbase-#34B27B?style=for-the-badge&logo=superbase&logoColor=white)
 
 
 
