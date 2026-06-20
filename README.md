@@ -187,7 +187,7 @@ A showcase of front-end expertise featuring modern designs and clean, maintainab
 | 🌟 **Daily GitHub Contributions** | ✅ Consistent Streak |
 | 💻 **HackerRank Problem Solver** | ✅ Active Participant |
 | 📚 **Full-Stack Developer** | ✅ Practical Experience |
-| 🔗 **LinkedIn Network** | 280+ Connections |
+| 🔗 **LinkedIn Network** | 290+ Connections |
 | 🚀 **Open Source Contributions** | ✅ Regular Contributor |
 | 📊 **Problem-Solving Skills** | ✅ Advanced DSA |
 
