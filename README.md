@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vishal%20Kushwaha&fontSize=70&animation=fadeIn&fontColor=white&customColorList=2,3,4,5,6,7)
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;C%2B%2B+%26+Web+Developer+%F0%9F%8C%90;AI+%26+Cloud+Enthusiast+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%8E%AF;Open+Source+Contributor+%F0%9F%93%9A)](https://git.io/typing-svg)
@@ -66,6 +64,11 @@ I'm a passionate **Computer Science student** with expertise in **full-stack dev
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 📊 Data Science & Analysis
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🤖 AI/ML & Emerging Tech
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge)
@@ -248,13 +251,10 @@ I'm always eager to:
 [![GitHub](https://img.shields.io/badge/Follow_Me-181717?style=flat&logo=github&logoColor=white)](https://github.com/vishal-kushwaha-9912)
 
 </div>
-
 ---
 
 <div align="center">
 
 ### 💭 *"Code is poetry written in logic, and I'm here to write masterpieces."*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=2,3,4,5,6,7)
 
 </div>
