@@ -218,9 +218,9 @@ A showcase of front-end expertise featuring modern designs and clean, maintainab
 
 | Metric | Details |
 |--------|---------|
-| **Primary Language** | C++ & JavaScript |
+| **Primary Language** | C++ & Python |
 | **Strongest Areas** | DSA, Web Development, Problem Solving |
-| **Learning Goals** | AI/ML, Cloud Computing, DevOps |
+| **Learning Goals** | AI/ML, Cloud Computing, DevOps , Data Science & Analysis |
 | **Contribution Level** | 🟢 Very Active |
 | **Coding Streak** | 🔥 Daily Commits |
 | **Location** | Ghaziabad, UP, India 🇮🇳 |
