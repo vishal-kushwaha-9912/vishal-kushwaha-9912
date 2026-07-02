@@ -135,7 +135,7 @@ A complete fitness solution with real-time analytics, workout tracking, and nutr
 - 🥗 Nutrition tracker with meal plans
 - 🔄 Continuous improvements & updates
 
-🔗 **Links:** [Live Demo](https://gym-app.netlify.app/) | [GitHub Repository](https://github.com/vishal-kushwaha-9912/GYM-APP)
+🔗 **Links:**  | [GitHub Repository](https://github.com/vishal-kushwaha-9912/GYM-APP)
 
 ---
 
