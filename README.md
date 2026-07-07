@@ -13,11 +13,11 @@
 I'm a passionate **Computer Science student** with expertise in **full-stack development**, **competitive programming**, and **emerging technologies**. I believe in continuous learning and turning ideas into impactful solutions.
 
 - 🎓 **CS Student** | Passionate about problem solving & software development
-- 💻 **Tech Stack:** C++, Python, JavaScript, React Native, Node.js
+- 💻 **Tech Stack:** C++, Python.
 - 📚 **Currently Mastering:** Advanced Data Structures & Algorithms in C++ , Python
 - 🚀 **Exploring:** AI, Machine Learning, Cloud Computing & DevOps
 - 🏆 **Active on:** HackerRank (Daily Problem Solver) | GitHub (Daily Contributor)
-- 👨‍💼 **Founder:** [SneakerHub](https://sneakes.netlify.app/) - Premium Sneaker E-commerce Store
+- 👨‍💼 **Founder:** [SneakerHub](https://sneakers-hub-2-0.netlify.app/) - Premium Sneaker E-commerce Store
 - 📍 **Location:** Ghaziabad, Uttar Pradesh, India 🇮🇳
 - ⚡ **Fun Fact:** I push code to GitHub every single day! 🔥
 
@@ -32,7 +32,7 @@ I'm a passionate **Computer Science student** with expertise in **full-stack dev
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal-kushwaha-9912)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vishalk_ushwa9912)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalk.ushwa9912@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-kushwaha-9912.github.io/Portfolios-/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliosvk99.netlify.app)
 
 </div>
 
@@ -83,7 +83,7 @@ I'm a passionate **Computer Science student** with expertise in **full-stack dev
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vishal-kushwaha-9912&theme=tokyonight&hide_border=true&background=transparent)](https://github.com/vishal-kushwaha-9912)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal-kushwaha-9912&theme=tokyonight)](https://github.com/vishal-kushwaha-9912)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vishal-kushwaha-9912&color=blueviolet&style=flat-square)](https://github.com/vishal-kushwaha-9912)
 
@@ -101,7 +101,7 @@ I'm a passionate **Computer Science student** with expertise in **full-stack dev
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kushwaha-9912&theme=tokyonight&hide_border=true&layout=compact&langs_count=10)](https://github.com/vishal-kushwaha-9912)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kushwaha-9912&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/vishal-kushwaha-9912)
 
 </div>
 
@@ -109,7 +109,7 @@ I'm a passionate **Computer Science student** with expertise in **full-stack dev
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-kushwaha-9912&theme=tokyo-night&hide_border=true&line_height=28&bg_color=transparent&color=00ff00&point=00ff00&area=true)](https://github.com/vishal-kushwaha-9912)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-kushwaha-9912&theme=tokyonight&hide_border=true&line_height=28)](https://github.com/vishal-kushwaha-9912)
 
 </div>
 
@@ -139,7 +139,7 @@ A complete fitness solution with real-time analytics, workout tracking, and nutr
 
 ---
 
-### 👟 [SneakerHub - Premium Sneaker Store](https://sneakes.netlify.app/) ⭐
+### 👟 [SneakerHub - Premium Sneaker Store](https://sneakers-hub-2-0.netlify.app/) ⭐
 
 **Modern E-commerce Platform for Exclusive Sneaker Releases**
 
@@ -156,7 +156,7 @@ A visually stunning sneaker store showcasing the latest releases and exclusive c
 - ✨ Smooth animations & transitions
 - ⭐ Product ratings & favorites system
 
-🔗 **Links:** [Live Website](https://sneakes.netlify.app/) | [GitHub Repository](https://github.com/vishal-kushwaha-9912/Sneakers-hub-2.0)
+🔗 **Links:** [Live Website](https://sneakers-hub-2-0.netlify.app/) | [GitHub Repository](https://github.com/vishal-kushwaha-9912/Sneakers-hub-2.0)
 
 ---
 
@@ -192,7 +192,6 @@ A showcase of front-end expertise featuring modern designs and clean, maintainab
 | 📚 **Full-Stack Developer** | ✅ Practical Experience |
 | 🔗 **LinkedIn Network** | 300+ Connections |
 | 🚀 **Open Source Contributions** | ✅ Regular Contributor |
-| 📊 **Problem-Solving Skills** | ✅ Advanced DSA |
 
 </div>
 
@@ -251,10 +250,6 @@ I'm always eager to:
 [![GitHub](https://img.shields.io/badge/Follow_Me-181717?style=flat&logo=github&logoColor=white)](https://github.com/vishal-kushwaha-9912)
 
 </div>
+
 ---
 
-<div align="center">
-
-### 💭 *"Code is poetry written in logic, and I'm here to write masterpieces."*
-
-</div>
