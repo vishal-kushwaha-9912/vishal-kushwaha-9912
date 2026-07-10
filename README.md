@@ -91,19 +91,19 @@ I'm a passionate **Computer Science student** with expertise in **full-stack dev
 
 ### 💻 Overall Contribution Stats
 
-<div align="center">
+### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-kushwaha-9912&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=27)](https://github.com/vishal-kushwaha-9912)
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vishal-kushwaha-9912&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vishal-kushwaha-9912&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-</div>
+### 📈 Contribution Graph
 
-### 🔥 Most Used Languages
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-kushwaha-9912&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kushwaha-9912&theme=tokyonight&hide_border=true&layout=compact&langs_count=10)](https://github.com/vishal-kushwaha-9912)
-
-</div>
 
 ### 📈 Contribution Activity
 
