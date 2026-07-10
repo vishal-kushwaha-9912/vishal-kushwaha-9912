@@ -14,6 +14,7 @@ I'm a passionate **Computer Science student** with expertise in **full-stack dev
 - 🎓 **CS Student** | Passionate about problem solving & software development
 - 💻 **Tech Stack:** C++, Python, JavaScript, React Native, Node.js
 - 📚 **Currently :** Data Structures & Algorithms in C++ , Python
+- 🔭 &nbsp;I'm currently working on **🏋️ GYM-APP ⭐** 
 - 🚀 **Exploring:** AI, Machine Learning, Cloud Computing & DevOps
 - 🏆 **Active on:** HackerRank ( Problem Solver) | GitHub (Daily Contributor)
 - 👨‍💼 **Founder:** [SneakerHub](https://sneakes.netlify.app/) - Premium Sneaker E-commerce Store
