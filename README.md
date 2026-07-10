@@ -1,22 +1,21 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;C%2B%2B+%26+Web+Developer+%F0%9F%8C%90;AI+%26+Cloud+Enthusiast+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%8E%AF;Open+Source+Contributor+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;C%2B%2B+%26+Web+Developer+%F0%9F%8C%90;AI+%26+Cloud+Enthusiast+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%8E%AF;Open+Source+Contributor+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 ### ✨ *Building innovative solutions with clean code and creative thinking*
 
 </div>
 
----
-
+----
 ## 💫 About Me
 
 I'm a passionate **Computer Science student** with expertise in **full-stack development**, **competitive programming**, and **emerging technologies**. I believe in continuous learning and turning ideas into impactful solutions.
 
 - 🎓 **CS Student** | Passionate about problem solving & software development
 - 💻 **Tech Stack:** C++, Python, JavaScript, React Native, Node.js
-- 📚 **Currently Mastering:** Advanced Data Structures & Algorithms in C++ , Python
+- 📚 **Currently :** Data Structures & Algorithms in C++ , Python
 - 🚀 **Exploring:** AI, Machine Learning, Cloud Computing & DevOps
-- 🏆 **Active on:** HackerRank (Daily Problem Solver) | GitHub (Daily Contributor)
+- 🏆 **Active on:** HackerRank ( Problem Solver) | GitHub (Daily Contributor)
 - 👨‍💼 **Founder:** [SneakerHub](https://sneakes.netlify.app/) - Premium Sneaker E-commerce Store
 - 📍 **Location:** Ghaziabad, Uttar Pradesh, India 🇮🇳
 - ⚡ **Fun Fact:** I push code to GitHub every single day! 🔥
