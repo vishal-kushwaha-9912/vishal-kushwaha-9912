@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;C%2B%2B+%26+Web+Developer+%F0%9F%8C%90;AI+%26+Cloud+Enthusiast+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%8E%AF;Open+Source+Contributor+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;React+%26+Web+Developer+%F0%9F%8C%90;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Responsive+Design+Expert+%F0%9F%93%B1;Open+Source+Contributor+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 ### ✨ *Building innovative solutions with clean code and creative thinking*
 
@@ -9,14 +9,14 @@
 ----
 ## 💫 About Me
 
-I'm a passionate **Computer Science student** with expertise in **full-stack development**, **competitive programming**, and **emerging technologies**. I believe in continuous learning and turning ideas into impactful solutions.
+I'm a passionate **Frontend Developer** with expertise in **modern web development**, **responsive design**, and **emerging web technologies**. I believe in creating beautiful, user-friendly interfaces and turning ideas into impactful digital solutions.
 
-- 🎓 **CS Student** | Passionate about problem solving & software development
-- 💻 **Tech Stack:** C++, Python, JavaScript, React Native, Node.js
-- 📚 **Currently :** Data Structures & Algorithms in C++ , Python
+- 🎓 **Frontend Developer** | Passionate about web development & UI/UX design
+- 💻 **Tech Stack:** C++, Python, JavaScript, React, HTML5, CSS3, React Native
+- 📚 **Currently:** Advanced React & Modern JavaScript
 - 🔭 &nbsp;I'm currently working on **🏋️ GYM-APP ⭐** 
-- 🚀 **Exploring:** AI, Machine Learning, Cloud Computing & DevOps
-- 🏆 **Active on:** HackerRank ( Problem Solver) | GitHub (Daily Contributor)
+- 🚀 **Exploring:** Web Performance, Design Systems & Web3
+- 🏆 **Active on:** GitHub (Daily Contributor) | Open Source
 - 👨‍💼 **Founder:** [SneakerHub](https://sneakes.netlify.app/) - Premium Sneaker E-commerce Store
 - 📍 **Location:** Ghaziabad, Uttar Pradesh, India 🇮🇳
 - ⚡ **Fun Fact:** I push code to GitHub every single day! 🔥
@@ -43,37 +43,33 @@ I'm a passionate **Computer Science student** with expertise in **full-stack dev
 <div align="center">
 
 ### 🔤 Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-4CAF50?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🛠️ Frontend Tools & Libraries
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 ### 🚀 Hosting & Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 📊 Data Science & Analysis
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🤖 AI/ML & Emerging Tech
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-96C401?style=for-the-badge&logo=python&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+### 🎨 Design & Animation
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![CSS Animations](https://img.shields.io/badge/CSS_Animations-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-FF6B6B?style=for-the-badge)
 
 </div>
 
@@ -81,28 +77,39 @@ I'm a passionate **Computer Science student** with expertise in **full-stack dev
 
 ## 📊 GitHub Analytics
 
+---
+
+### 🔥 GitHub Streak
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vishal-kushwaha-9912&theme=tokyonight&hide_border=true&background=transparent)](https://github.com/vishal-kushwaha-9912)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=vishal-kushwaha-9912&color=blueviolet&style=flat-square)](https://github.com/vishal-kushwaha-9912)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vishal-kushwaha-9912&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/vishal-kushwaha-9912)
 
 </div>
 
-### 💻 Overall Contribution Stats
-
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vishal-kushwaha-9912&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vishal-kushwaha-9912&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-kushwaha-9912&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=0D1117&count_private=true)](https://github.com/vishal-kushwaha-9912)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kushwaha-9912&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=0D1117&langs_count=8)](https://github.com/vishal-kushwaha-9912)
+
+</div>
 
 ### 📈 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-kushwaha-9912&theme=tokyo-night&hide_border=true&line_height=28&bg_color=transparent&color=00ff00&point=00ff00&area=true)](https://github.com/vishal-kushwaha-9912)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-kushwaha-9912&theme=tokyo-night&hide_border=true&line_height=28&bg_color=0D1117&color=00ff00&point=00ff00&area=true&custom_title=Contribution%20Graph)](https://github.com/vishal-kushwaha-9912)
+
+</div>
+
+### 👀 Profile Views
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=vishal-kushwaha-9912&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -128,7 +135,7 @@ A complete fitness solution with real-time analytics, workout tracking, and nutr
 - 🥗 Nutrition tracker with meal plans
 - 🔄 Continuous improvements & updates
 
-🔗 **Links:**  | [GitHub Repository](https://github.com/vishal-kushwaha-9912/GYM-APP)
+🔗 **Links:** [GitHub Repository](https://github.com/vishal-kushwaha-9912/GYM-APP)
 
 ---
 
@@ -181,11 +188,11 @@ A showcase of front-end expertise featuring modern designs and clean, maintainab
 | Achievement | Status |
 |---|---|
 | 🌟 **Daily GitHub Contributions** | ✅ Consistent Streak |
-| 💻 **HackerRank Problem Solver** | ✅ Active Participant |
-| 📚 **Full-Stack Developer** | ✅ Practical Experience |
+| 💻 **Frontend Developer** | ✅ Professional Experience |
+| 📱 **Responsive Design Expert** | ✅ Proven Expertise |
 | 🔗 **LinkedIn Network** | 330+ Connections |
 | 🚀 **Open Source Contributions** | ✅ Regular Contributor |
-| 📊 **Problem-Solving Skills** | ✅ Advanced DSA |
+| 🎨 **UI/UX Implementation** | ✅ Advanced Skills |
 
 </div>
 
@@ -194,12 +201,12 @@ A showcase of front-end expertise featuring modern designs and clean, maintainab
 ## 🎯 Current Focus Areas
 
 ```
-2024-2026: Growth & Mastery Phase
-├── 📚 Advanced Data Structures & Algorithms
-├── 🤖 Machine Learning & AI Integration
-├── ☁️ Cloud Computing (AWS/GCP/Azure)
-├── 🌐 Full-Stack Web Applications
-├── 📊 Performance Optimization
+2024-2026: Frontend Mastery Phase
+├── 📚 Advanced React & State Management
+├── 🎨 Modern UI/UX Design Patterns
+├── ⚡ Web Performance Optimization
+├── 📱 Responsive & Mobile-First Design
+├── 🌐 Web3 & Frontend Innovation
 └── 🔗 Open Source Contributions
 ```
 
@@ -211,12 +218,12 @@ A showcase of front-end expertise featuring modern designs and clean, maintainab
 
 | Metric | Details |
 |--------|---------|
-| **Primary Language** | C++ & Python |
-| **Strongest Areas** | DSA, Web Development, Problem Solving |
-| **Learning Goals** | AI/ML, Cloud Computing, DevOps , Data Science & Analysis |
+| **Primary Skills** | C++, Python |
+| **Strongest Areas** | Frontend Development, UI/UX, Web Performance |
+| **Learning Goals** | Web3, Advanced React Patterns, Design Systems |
 | **Contribution Level** | 🟢 Very Active |
 | **Coding Streak** | 🔥 Daily Commits |
-| **Location** | Ghaziabad, UP, India 🇮🇳 |
+| **Location** | Ghaziabad, Uttar Pradesh, India 🇮🇳 |
 
 </div>
 
@@ -225,11 +232,11 @@ A showcase of front-end expertise featuring modern designs and clean, maintainab
 ## 🤝 Let's Collaborate!
 
 I'm always eager to:
-- 🔗 **Network & Connect** with like-minded developers
-- 💼 **Explore Opportunities** in internships & full-time roles
-- 📝 **Contribute** to open-source projects
-- 🎓 **Share Knowledge** & learn together
-- 🚀 **Build Amazing Projects** that make an impact
+- 🔗 **Network & Connect** with Frontend developers and designers
+- 💼 **Explore Opportunities** in frontend development & UI/UX roles
+- 📝 **Contribute** to open-source frontend projects
+- 🎨 **Share Knowledge** about modern web development
+- 🚀 **Build Amazing Projects** with beautiful, responsive interfaces
 
 **Don't hesitate to reach out!**
 
@@ -243,4 +250,4 @@ I'm always eager to:
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-kushwaha-0982a2332)
 [![GitHub](https://img.shields.io/badge/Follow_Me-181717?style=flat&logo=github&logoColor=white)](https://github.com/vishal-kushwaha-9912)
 
-
+</div>
