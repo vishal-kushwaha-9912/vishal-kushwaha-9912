@@ -1,245 +1,395 @@
-<div align="center">
+# 👋 Hi, I'm Vishal Kushwaha
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;C%2B%2B+%26+Web+Developer+%F0%9F%8C%90;AI+%26+Cloud+Enthusiast+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%8E%AF;Open+Source+Contributor+%F0%9F%93%9A)](https://git.io/typing-svg)
+### 📊 Aspiring Data Scientist | Data Analyst | Python & SQL Developer
 
-### ✨ *Building innovative solutions with clean code and creative thinking*
-
-</div>
-
-----
-## 💫 About Me
-
-I'm a passionate **Computer Science student** with expertise in **full-stack development**, **competitive programming**, and **emerging technologies**. I believe in continuous learning and turning ideas into impactful solutions.
-
-- 🎓 **CS Student** | Passionate about problem solving & software development
-- 💻 **Tech Stack:** C++, Python, JavaScript, React Native, Node.js
-- 📚 **Currently :** Data Structures & Algorithms in C++ , Python
-- 🔭 &nbsp;I'm currently working on **🏋️ GYM-APP ⭐** 
-- 🚀 **Exploring:** AI, Machine Learning, Cloud Computing & DevOps
-- 🏆 **Active on:** HackerRank ( Problem Solver) | GitHub (Daily Contributor)
-- 👨‍💼 **Founder:** [SneakerHub](https://sneakes.netlify.app/) - Premium Sneaker E-commerce Store
-- 📍 **Location:** Ghaziabad, Uttar Pradesh, India 🇮🇳
-- ⚡ **Fun Fact:** I push code to GitHub every single day! 🔥
+**Turning data into insights, building practical projects, and continuously learning.**
 
 ---
 
-## 🌐 Connect With Me
+## 👨‍💻 About Me
 
-<div align="center">
+I'm a **Computer Science student** building my career toward **Data Science, Data Analytics, and Machine Learning**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-kushwaha-0982a2332)
-[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/VishalKush9912)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal-kushwaha-9912)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vishalk_ushwa9912)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalk.ushwa9912@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-kushwaha-9912.github.io/Portfolios-/)
+I enjoy working with data, solving programming problems, designing databases, and building projects that connect software development with data-driven decision making.
 
-</div>
+My current learning journey focuses on developing strong foundations in **Python, SQL, statistics, data analysis, visualization, and machine learning**.
+
+- 🎓 Computer Science Student
+- 📊 Focused on **Data Science & Data Analytics**
+- 🐍 Learning and building with **Python**
+- 🗄️ Practicing **SQL, Database Design & Data Management**
+- 📈 Exploring **Data Analysis & Data Visualization**
+- 🤖 Learning **Machine Learning & AI**
+- 💻 Practicing **Data Structures & Algorithms**
+- 🌐 Building software projects to apply my technical knowledge
+- ☁️ Exploring **Cloud Computing**
+- 🚀 Interested in internships and entry-level opportunities in **Data Science, Data Analytics & Software Development**
 
 ---
 
-## 💻 Tech Stack
+## 🎯 My Data Science Journey
 
-<div align="center">
+```text
+Python
+  ↓
+SQL & Databases
+  ↓
+Statistics & Mathematics
+  ↓
+Data Cleaning & EDA
+  ↓
+Data Visualization
+  ↓
+Machine Learning
+  ↓
+End-to-End Data Science Projects
+  ↓
+Advanced Analytics & AI
+```
 
-### 🔤 Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+I'm focusing on understanding **why** a model or analysis works rather than simply using libraries.
 
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-4CAF50?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-### ⚙️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+# 🧠 Technical Skills
 
-### 🚀 Hosting & Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## 🐍 Programming
 
-### 📊 Data Science & Analysis
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+
+---
+
+## 📊 Data Science & Analytics
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🤖 AI/ML & Emerging Tech
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-96C401?style=for-the-badge&logo=python&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+### Currently Developing Skills
 
-</div>
+- 🧹 Data Cleaning
+- 🔎 Exploratory Data Analysis
+- 📐 Statistical Analysis
+- 📊 Data Visualization
+- ⚙️ Feature Engineering
+- 📈 Predictive Modeling
+- 🤖 Machine Learning
+- 📏 Model Evaluation
 
 ---
 
-## 📊 GitHub Analytics
+## 🗄️ SQL & Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### SQL Topics
+
+- SELECT & Filtering
+- WHERE & ORDER BY
+- Aggregate Functions
+- GROUP BY & HAVING
+- Subqueries
+- Common Table Expressions (CTEs)
+- Window Functions
+- JOINs
+- Primary & Foreign Keys
+- Database Design
+- Normalization
+- Data Integrity
+
+---
+
+## 🤖 Machine Learning & AI
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-96C401?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Currently Exploring
+
+- Supervised Learning
+- Unsupervised Learning
+- Regression
+- Classification
+- Clustering
+- Feature Engineering
+- Model Evaluation
+- Generative AI
+
+---
+
+## 📊 Visualization & Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+---
+
+## 🛠️ Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+# 📚 Currently Learning
+
+| Area                    | Focus                                           |
+| ----------------------- | ----------------------------------------------- |
+| 🐍 **Python**           | Data Science, OOP, Problem Solving              |
+| 🗄️ **SQL**             | Advanced Queries, JOINs, CTEs, Window Functions |
+| 📊 **Data Analysis**    | Pandas, NumPy, EDA                              |
+| 📈 **Visualization**    | Matplotlib, Seaborn, Power BI                   |
+| 📐 **Statistics**       | Descriptive Statistics & Probability            |
+| 🤖 **Machine Learning** | Scikit-learn & Model Evaluation                 |
+| 🧠 **AI**               | Generative AI & ML Concepts                     |
+| ☁️ **Cloud**            | Cloud Computing                                 |
+| 💻 **DSA**              | Problem Solving with C++                        |
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 BookShare Platform
+
+**Book sharing and library management platform with a data-driven approach.**
+
+A project designed to connect users who own books with people looking to borrow them.
+
+### Key Features
+
+- 👤 User registration and authentication
+- 📚 Book management
+- 🔍 Book discovery
+- 📦 Book availability tracking
+- 🤝 Book borrowing requests
+- 🗄️ Relational database design
+- 📊 Potential analytics for books, users, and borrowing patterns
+
+### Technologies
+
+`Python` `SQL` `Database Design` `React` `FastAPI`
+
+🔗 **[View GitHub Projects](https://github.com/vishal-kushwaha-9912)**
+
+---
+
+## 🏋️ GYM-APP
+
+**Fitness tracking application with data-oriented tracking features.**
+
+A project focused on tracking workouts, fitness activities, and user progress.
+
+### Key Features
+
+- 📱 Fitness tracking
+- 💪 Workout management
+- 📊 Progress tracking
+- 🥗 Nutrition-related features
+- 📈 Data-oriented tracking
+
+### Technologies
+
+`React Native` `JavaScript` `Node.js`
+
+🔗 **[GitHub Repository](https://github.com/vishal-kushwaha-9912/GYM-APP)**
+
+---
+
+## 🗄️ SQL for Beginners
+
+**A structured SQL learning repository covering database fundamentals and practical SQL exercises.**
+
+### Topics Covered
+
+- SELECT
+- WHERE
+- ORDER BY
+- Aggregate Functions
+- GROUP BY
+- HAVING
+- JOINs
+- Subqueries
+- Database Relationships
+- Practical SQL Exercises
+
+The repository focuses on **hands-on SQL practice** rather than only theoretical concepts.
+
+🔗 **[SQL Learning Repository](https://github.com/vishal-kushwaha-9912/SQL-for-Beginners-)**
+
+---
+
+## 👟 SneakersHub
+
+**Responsive e-commerce project built to strengthen frontend and application development skills.**
+
+### Features
+
+- 🛍️ Product browsing
+- 🔎 Search and filtering
+- 📱 Responsive design
+- ⭐ Product interactions
+- 🎨 Modern UI
+
+### Technologies
+
+`HTML` `CSS` `JavaScript`
+
+🔗 **[Live Website](https://sneakes.netlify.app/)**
+🔗 **[GitHub Repository](https://github.com/vishal-kushwaha-9912/Sneakers-hub-2.0)**
+
+---
+
+# 📊 Data Science Projects
+
+I'm building projects around real-world datasets to demonstrate the complete data workflow:
+
+```text
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis
+   ↓
+Visualization
+   ↓
+Feature Engineering
+   ↓
+Machine Learning
+   ↓
+Model Evaluation
+   ↓
+Business Insights
+```
+
+## 🔬 Upcoming / Learning Projects
+
+- 📊 Exploratory Data Analysis Projects
+- 💰 Sales Analytics Dashboard
+- 👥 Customer Segmentation
+- 📈 Customer Churn Prediction
+- 🏠 House Price Prediction
+- 🎬 Recommendation System
+- 📚 Book Recommendation System
+- 📊 SQL Business Analytics Projects
+- 🤖 Machine Learning Classification Projects
+
+---
+
+# 🧩 Problem Solving
+
+I regularly practice programming and SQL problems to strengthen:
+
+- 🧠 Logical Thinking
+- 💻 Algorithmic Problem Solving
+- 🗂️ Data Structures
+- 🗄️ SQL Query Writing
+- ⚡ Query Optimization
+- 🧮 Computational Thinking
+
+### Platforms
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vishalk_ushwa9912)
+
+---
+
+# 📈 GitHub Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vishal-kushwaha-9912&theme=tokyonight&hide_border=true&background=transparent)](https://github.com/vishal-kushwaha-9912)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vishal-kushwa-9912&theme=tokyonight&hide_border=true&background=transparent)](https://github.com/vishal-kushwa-9912)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vishal-kushwaha-9912&color=blueviolet&style=flat-square)](https://github.com/vishal-kushwaha-9912)
+![Profile Views](https://komarev.com/ghpvc/?username=vishal-kushwa-9912&color=blueviolet&style=flat-square)
 
 </div>
 
-### 💻 Overall Contribution Stats
-
-### 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vishal-kushwaha-9912&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vishal-kushwaha-9912&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+
+<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=vishal-kushwa-9912&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Statistics"/>
+
+<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vishal-kushwa-9912&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages"/>
+
 </p>
 
-### 📈 Contribution Activity
+---
 
-<div align="center">
+# 🎯 Career Goal
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-kushwaha-9912&theme=tokyo-night&hide_border=true&line_height=28&bg_color=transparent&color=00ff00&point=00ff00&area=true)](https://github.com/vishal-kushwaha-9912)
+My goal is to become a **Data Scientist / Data Analyst** capable of solving real-world problems using:
 
-</div>
+> **Data → Analysis → Insights → Machine Learning → Business Decisions**
+
+I'm particularly interested in opportunities involving:
+
+- 📊 Data Analysis
+- 🐍 Python
+- 🗄️ SQL
+- 📈 Business Intelligence
+- 🤖 Machine Learning
+- ☁️ Cloud Technologies
 
 ---
 
-## 🚀 Featured Projects
+# 🌱 What I'm Working On
 
-### 🏋️ [GYM-APP](https://github.com/vishal-kushwaha-9912/GYM-APP) ⭐
-
-**Cross-platform Fitness Tracking & Analytics Application**
-
-A complete fitness solution with real-time analytics, workout tracking, and nutrition planning capabilities.
-
-**Tech Stack:**
-- Frontend: React Native, Expo
-- Backend: Node.js
-- Deployment: Vercel, Netlify
-
-**Key Features:**
-- 📱 Responsive mobile-first design
-- 📊 Real-time analytics dashboard
-- 💪 Workout logging & PR tracking
-- 🥗 Nutrition tracker with meal plans
-- 🔄 Continuous improvements & updates
-
-🔗 **Links:**  | [GitHub Repository](https://github.com/vishal-kushwaha-9912/GYM-APP)
-
----
-
-### 👟 [SneakerHub - Premium Sneaker Store](https://sneakes.netlify.app/) ⭐
-
-**Modern E-commerce Platform for Exclusive Sneaker Releases**
-
-A visually stunning sneaker store showcasing the latest releases and exclusive collaborations with an intuitive shopping experience.
-
-**Tech Stack:**
-- Frontend: HTML5, CSS3, JavaScript
-- Hosting: Netlify
-
-**Key Features:**
-- 🎨 Modern, sleek UI design
-- 📱 Fully responsive across all devices
-- 🛍️ Dynamic product filtering & search
-- ✨ Smooth animations & transitions
-- ⭐ Product ratings & favorites system
-
-🔗 **Links:** [Live Website](https://sneakes.netlify.app/) | [GitHub Repository](https://github.com/vishal-kushwaha-9912/Sneakers-hub-2.0)
-
----
-
-### 💻 [Web Development Projects](https://github.com/vishal-kushwaha-9912/Web-Projects)
-
-**Collection of Responsive Web Applications & UI Components**
-
-A showcase of front-end expertise featuring modern designs and clean, maintainable code.
-
-**Tech Stack:**
-- HTML5, CSS3, JavaScript
-- Responsive Design Principles
-- Modern UI/UX Patterns
-
-**Highlights:**
-- 🎨 Modern UI/UX designs
-- 📱 Mobile-responsive layouts
-- ⚡ Performance optimized
-- 🔧 Clean & maintainable code
-
-🔗 **Links:** [View All Projects](https://github.com/vishal-kushwaha-9912?tab=repositories) | [Main Repository](https://github.com/vishal-kushwaha-9912/Web-Projects)
-
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-| Achievement | Status |
-|---|---|
-| 🌟 **Daily GitHub Contributions** | ✅ Consistent Streak |
-| 💻 **HackerRank Problem Solver** | ✅ Active Participant |
-| 📚 **Full-Stack Developer** | ✅ Practical Experience |
-| 🔗 **LinkedIn Network** | 370+ Connections |
-| 🚀 **Open Source Contributions** | ✅ Regular Contributor |
-| 📊 **Problem-Solving Skills** | ✅ Advanced DSA |
-
-</div>
-
----
-
-## 🎯 Current Focus Areas
-
-```
-2024-2026: Growth & Mastery Phase
-├── 📚 Advanced Data Structures & Algorithms
-├── 🤖 Machine Learning & AI Integration
-├── ☁️ Cloud Computing (AWS/GCP/Azure)
-├── 🌐 Full-Stack Web Applications
-├── 📊 Performance Optimization
-└── 🔗 Open Source Contributions
+```text
+2026
+│
+├── 🐍 Strengthening Python
+├── 🗄️ Advanced SQL
+├── 📊 Data Analysis & EDA
+├── 📐 Statistics
+├── 📈 Data Visualization
+├── 🤖 Machine Learning
+├── ☁️ Cloud Computing
+├── 💻 DSA & Problem Solving
+└── 🚀 Building Real-World Projects
 ```
 
 ---
 
-## 💡 Key Insights
+# 🤝 Let's Connect
+
+I'm always interested in connecting with:
+
+- 👨‍💻 Developers
+- 📊 Data Scientists
+- 📈 Data Analysts
+- 🤖 ML Engineers
+- 🎓 Students & Learners
+- 🌎 Open Source Contributors
+
+If you're interested in **Data Science, SQL, Python, Machine Learning, or building projects together**, feel free to connect.
 
 <div align="center">
 
-| Metric | Details |
-|--------|---------|
-| **Primary Language** | C++ & Python |
-| **Strongest Areas** | DSA, Web Development, Problem Solving |
-| **Learning Goals** | AI/ML, Cloud Computing, DevOps , Data Science & Analysis |
-| **Contribution Level** | 🟢 Very Active |
-| **Coding Streak** | 🔥 Daily Commits |
-| **Location** | Ghaziabad, UP, India 🇮🇳 |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-kushwaha-0982a2332)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal-kushwaha-9912)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vishalk_ushwa9912)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-kushwaha-9912.github.io/Portfolios-/)
 
 </div>
 
 ---
 
-## 🤝 Let's Collaborate!
-
-I'm always eager to:
-- 🔗 **Network & Connect** with like-minded developers
-- 💼 **Explore Opportunities** in internships & full-time roles
-- 📝 **Contribute** to open-source projects
-- 🎓 **Share Knowledge** & learn together
-- 🚀 **Build Amazing Projects** that make an impact
-
-**Don't hesitate to reach out!**
-
----
-
-## 📞 Quick Contact
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishalk.ushwa9912@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-kushwaha-0982a2332)
-[![GitHub](https://img.shields.io/badge/Follow_Me-181717?style=flat&logo=github&logoColor=white)](https://github.com/vishal-kushwaha-9912)
----
+### 💡 Learn. Build. Analyze. Improve. Repeat.
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
+```
