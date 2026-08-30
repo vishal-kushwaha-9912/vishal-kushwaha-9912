@@ -194,7 +194,7 @@ Google Forms results can be edited silently by the admin. PulsePoll results live
 `Solidity` `Next.js` `Monad Blockchain` `Web3` `Vercel`
 
 🔗 **[GitHub Repository](https://github.com/vishal-kushwaha-9912/Pulse-Poll-)**
-🔗 **[Live Demo](https://your-vercel-url-here.vercel.app)**
+🔗 **[Live Demo](https://pulse-poll-gules.vercel.app/)**
 
 > 🏆 First hackathon. Solo. Shipped. — Monad Blitz New Delhi V4
 
